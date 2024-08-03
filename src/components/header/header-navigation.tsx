@@ -13,10 +13,6 @@ import {
 
 const links: { title: string; href: string }[] = [
   {
-    title: "Blog",
-    href: "/blog",
-  },
-  {
     title: "Contato",
     href: "/contact",
   },
