@@ -56,15 +56,6 @@ export default function Footer() {
               <ul className="mt-2 space-y-4 text-sm">
                 <li>
                   <a
-                    href="/blog"
-                    className="text-zinc-400 transition hover:opacity-75"
-                  >
-                    Blog
-                  </a>
-                </li>
-
-                <li>
-                  <a
                     href="/jobs"
                     className="text-zinc-400 transition hover:opacity-75"
                   >
