@@ -10,7 +10,7 @@ export function CreateBudget() {
           Faça seu orçamento <br /> agora mesmo
         </h3>
 
-        <div className="flex gap-5 items-center">
+        <div className="flex gap-6 items-center">
           <Link
             href="https://api.whatsapp.com/send?phone=5511965246226&text=Olá,%20Estou%20buscando%20um%20novo%20orçamento"
             className="text-sm text-[#888B91] hover:text-zinc-400 font-semibold"

@@ -15,11 +15,9 @@ export function GlobeOverview() {
         <span className="md:h-[10%] md:w-[10%] animate-pulse rounded-full duration-1000 bg-gradient-to-r from-[#D44686] to-[#EB5E65] absolute  translate-y-[-20%] translate-x-[-100%] z-[-2] blur-3xl" />
       </h1>
       <p className="w-full text-white/90 mb-8 mt-4 text-center md:text-center text-xs md:text-base font-normal">
-        Nós somos especialistas em transformar conceitos em soluções
-        tecnológicas de impacto. Se você sonha em criar um aplicativo
-        revolucionário, um sistema que soluciona problemas reais ou um site que
-        captura a essência do seu negócio, estamos aqui para tornar isso
-        realidade.
+        Somos especialistas em transformar conceitos em soluções tecnológicas de impacto. 
+        Se você sonha em criar um aplicativo revolucionário, um sistema que soluciona problemas reais, ou um site
+        que captura a essência do seu negócio, estamos aqui para tornar isso realidade.
       </p>
 
       <div className="flex items-center gap-4">

@@ -96,7 +96,7 @@ export default function Footer() {
                     href="/terms/exclusive"
                     className="text-zinc-400 transition hover:opacity-75"
                   >
-                    Politica de Exclusividade
+                    Política de Exclusividade
                   </a>
                 </li>
 

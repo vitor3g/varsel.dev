@@ -279,8 +279,8 @@ const SkeletonFive = () => {
           className="rounded-full h-10 w-10"
         />
         <p className="text-xs text-neutral-500">
-          Bom dia, tudo bem? Você tem alguma preferencia quanto ao core da
-          aplicação? Qual linguagem devemos usar?
+          Bom dia, tudo bem? Tem alguma preferência quanto ao core da
+          aplicação, sobre qual linguagem devemos usar?
         </p>
       </motion.div>
       <motion.div
@@ -298,7 +298,7 @@ const items = [
     title: "Aplicativos com IA",
     description: (
       <span className="text-sm">
-        Sua empresa precisa de um sistema baseado em inteligencia artificial?
+        Sua empresa precisa de um sistema baseado em inteligência artificial?
       </span>
     ),
     header: <SkeletonOne />,
@@ -309,7 +309,7 @@ const items = [
     title: "Revisão especializada",
     description: (
       <span className="text-sm">
-        Já tem um projeto? Contrate profissionais para analisar seu projeto.
+        Já tem um projeto? Contrate profissionais para analisá-lo!
       </span>
     ),
     header: <SkeletonTwo />,
@@ -344,8 +344,9 @@ const items = [
     title: "Suas escolhas",
     description: (
       <span className="text-sm">
-        Versatilidade da o nome a varsel. Você nos diz o que precisa, nós
-        fazemos acontecer.
+        Versatilidade da o nome à Varsel. Você nos diz o que precisa, 
+        nós fazemos acontecer.
+
       </span>
     ),
     header: <SkeletonFive />,

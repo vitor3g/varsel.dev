@@ -12,12 +12,12 @@ export default function OverviewAnnunce() {
           🎉 Novidade
         </Badge>
         <Label className="text-zinc-300" htmlFor="badge">
-          Você é um desenvolvedor? Estamos contratando!
+          Você é um desenvolvedor? Saiba que estamos contratando!
         </Label>
 
         <Link href="/jobs">
           <Button variant="outline" className="rounded-full gap-2">
-            Aplicar à uma vaga
+            Aplicar a uma vaga
             <ChevronRight size={15} />
           </Button>
         </Link>

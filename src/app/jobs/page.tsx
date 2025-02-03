@@ -45,7 +45,7 @@ export default function Jobs() {
       <div className="h-fit w-full flex justify-center p-2 md:p-0 mt-32">
         <div className="flex flex-col items-center gap-1">
           <h2 className="mb-2 text-center text-4xl md:text-[3rem] tracking-tight leading-[120%] font-outfit -mt-10 bg-gradient-to-r from-white via-zinc-300 to-zinc-400 inline-block text-transparent bg-clip-text">
-            Vagas disponiveis
+            Vagas disponíveis
           </h2>
 
           <p className="text-zinc-400 md:w-8/12 text-center text-sm md:text-lg">

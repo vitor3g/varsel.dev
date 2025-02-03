@@ -42,12 +42,13 @@ export function Chose() {
         <div className="flex flex-col overflow-hidden gap-5 items-center mb-10">
           <h2 className="w-full mb-2 text-center text-[3rem] md:text-[3.5rem] tracking-tight leading-[120%] font-outfit bg-gradient-to-r from-white via-zinc-300 to-zinc-400 inline-block text-transparent bg-clip-text">
             Nossos <br />
-            ultimos trabalhos
+            últimos trabalhos
           </h2>
           <p className="text-zinc-400 md:w-8/12 text-center text-lg">
-            Veja os últimos 4 cases que trabalhamos, nos dedicando a cada
-            detalhe para que a experiência não só sua, mas também dos seus
-            clientes, seja incrível.
+          Veja os últimos cases em que trabalhamos, dedicando muito a 
+          cada detalhe para que a experiência dos usuários seja incrível.
+
+
           </p>
         </div>
 

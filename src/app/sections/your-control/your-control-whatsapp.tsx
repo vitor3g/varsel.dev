@@ -16,14 +16,14 @@ export default function YourControlWhatsapp() {
   const chats: CardProps[] = [
     {
       avatar: "/icons/varsel.webp",
-      lastMessage: "Que tal uma reunião hoje à tarde? 😉",
+      lastMessage: "Ótimo, me envie o link do meet! 😉",
       name: "Varsel Agency",
       time: "15:30",
       fixed: true,
     },
     {
       avatar: "/icons/pedro.webp",
-      lastMessage: "publique hoje a tarde",
+      lastMessage: "publique hoje à tarde",
       name: "Pedro",
       time: "12:30",
       fixed: true,
@@ -31,13 +31,13 @@ export default function YourControlWhatsapp() {
     {
       avatar: "/icons/brasao.webp",
       lastMessage: "Vô: Neste domingo?",
-      name: "Familia ❤️",
+      name: "Família ❤️",
       time: "12:30",
       fixed: false,
     },
     {
       avatar: "/icons/amanda.webp",
-      lastMessage: "Incrivel!!",
+      lastMessage: "Incrível!!",
       name: "Amanda",
       time: "12:30",
       fixed: false,
@@ -58,14 +58,14 @@ export default function YourControlWhatsapp() {
     },
     {
       avatar: "/icons/joao.webp",
-      lastMessage: "Otimo, irei comunica-lo hoje sobre.",
+      lastMessage: "Ótimo, irei comunicá-lo hoje sobre.",
       name: "João 👀",
       time: "12:30",
       fixed: false,
     },
     {
       avatar: "/icons/le.webp",
-      lastMessage: "Pode ser as 20?",
+      lastMessage: "Pode ser às 20?",
       name: "Lê 💕",
       time: "12:30",
       fixed: false,
@@ -86,7 +86,7 @@ export default function YourControlWhatsapp() {
     },
     {
       avatar: "/icons/vinicius.webp",
-      lastMessage: "fecho",
+      lastMessage: "fechou",
       name: "Vinicius",
       time: "12:30",
       fixed: false,
