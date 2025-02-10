@@ -35,8 +35,8 @@ export function Chose() {
     {
       title: "VivaBem",
       custumer: "Lana Lisboua",
-      imageUrl: "/products/16.png",
-      link: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a51dbc218954561.67aa325599a70.png",
+      imageUrl: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a51dbc218954561.67aa325599a70.png",
+      link: "https://www.behance.net/gallery/218954561/VivaBem-Landing",
     },
   ];
 
