@@ -3,12 +3,6 @@ import { DirectionAwareHover } from "@/components/aceternity/direction-aware-hov
 export function Chose() {
   const projects = [
     {
-      title: "Payment Dashboard",
-      custumer: "CollabPay",
-      imageUrl: "/products/8.png",
-      link: "https://www.behance.net/gallery/186811041/CollabPay",
-    },
-    {
       title: "Landing Page",
       custumer: "LowPixel",
       imageUrl: "/products/11.png",
