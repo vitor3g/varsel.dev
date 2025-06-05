@@ -204,19 +204,13 @@ const SkeletonFour = () => {
         <div className="rounded-full h-10 w-10 bg-green-300" />
 
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          Vítor Ribeiro
-        </p>
-        <p className="border border-red-500 bg-red-100 bg-red-900/20 text-red-600 text-xs rounded-full px-2 py-0.5 mt-4">
-          CTO
+          Mauro Costa
         </p>
       </motion.div>
       <motion.div className="h-full relative z-20 w-1/3 rounded-2xl p-4 bg-black border-white/[0.1] border flex flex-col items-center justify-center">
         <div className="rounded-full h-10 w-10 bg-green-300" />
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          Vinicius Emanuel
-        </p>
-        <p className="border border-green-500 bg-green-900/20 text-green-600 text-xs rounded-full px-2 py-0.5 mt-4">
-          CEO
+          João Sousa
         </p>
       </motion.div>
       <motion.div
@@ -226,10 +220,7 @@ const SkeletonFour = () => {
         <div className="rounded-full h-6 w-10 bg-green-300" />
 
         <p className="sm:text-sm text-xs text-center font-semibold text-neutral-500 mt-4">
-          Breno Souto
-        </p>
-        <p className="border border-orange-500 bg-orange-900/20 text-orange-600 text-xs rounded-full px-2 py-0.5 mt-4">
-          CCO
+          Diego Araújo
         </p>
       </motion.div>
     </motion.div>
