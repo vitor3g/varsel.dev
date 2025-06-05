@@ -116,7 +116,7 @@ export default function Footer() {
 
       <div className="mx-auto w-full max-w-screen-xl px-4 py-16">
         <p className="text-xs text-gray-500 text-center">
-          &copy; {new Date().getFullYear()} Varsel Agency. Todos os direitos
+          &copy; {new Date().getFullYear()} Drako Technologies LTDA. 57.428.819/0001-71/ Todos os direitos
           reservados.
         </p>
       </div>
